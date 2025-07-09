@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey!
 
-<!--
-**mavi-alt/mavi-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img align="right" src=""/>
+</div>
 
-Here are some ideas to get you started:
+<div>
+<a href="https://github.com/mavi-alt">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mavi-alt&theme=date_night&show_icons=false"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavi-alt&layout=compact&langs_count=8&theme=date_night&card_width=320" />
+</a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
