@@ -1,6 +1,6 @@
 ## ⭐Oi!!!
 
-### 📖Formação
+### 📖Formação (em andamento)
 **Análise e Desenvolvimento de Sistemas - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)**
 
 ### 👾Minhas Skills
