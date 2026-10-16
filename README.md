@@ -1,6 +1,7 @@
-## ⭐Oi!!!
+# ⭐Oi!!! 
+### Sou a Mavi, uma ilustradora e artista visual em transição de carreira.
 
-### 📖Formação (em andamento)
+## 📖Formação (em andamento)
 **Análise e Desenvolvimento de Sistemas - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)**
 
 ### 👾Minhas Skills
