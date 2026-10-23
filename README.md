@@ -20,6 +20,7 @@ Atualmente estou desenvolvendo o site do **[Memorial do Rio Grande do Sul](https
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/free-figma-logo-icon-svg-download-png-2944870.png?f=webp" alt="Figma"/></code>
 <code><img height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git"/></code>
+<code><img height="32" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/3840px-WordPress_blue_logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" alt="WordPress"/></code>
 
 
 
