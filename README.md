@@ -1,7 +1,7 @@
 # ⭐Oi!!! 
 Sou a Mavi, uma ilustradora e artista visual em transição de carreira. Tenho como foco o Desenvolvimento Web, iniciando com vários projetos de landing pages e aprofundando cada dia mais na área. Possuo um olhar mais aguçado para cores e designs, por conta de minha formação anterior em Artes Visuais e experiências como comunicadora visual e assistente de arte.
 
-Estudo **Análise e Desenvolvimento de Sistemas - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)**
+Estudo **Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS)**
 
 Atualmente estou desenvolvendo o site do **[Memorial do Rio Grande do Sul](https://www.instagram.com/memorial_rs/)**, ao qual tive parte na criação por meio do [WordPress](https://memorial.rs.gov.br), utilizando o tema [tainacan](https://tainacan.org) e a ferramenta [Elementor](https://elementor.com/pt-br/).
 
